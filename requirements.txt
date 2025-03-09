@@ -1,0 +1,8 @@
+aiogram
+ffmpeg-python
+moviepy
+pydub
+opencv-python
+numpy
+python-dotenv
+imageio_ffmpeg
